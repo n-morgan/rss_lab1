@@ -1,3 +1,15 @@
+commit 05aa9c0ddfac9e5180a4a87a103fbdc32879690f
+Author: nmorgan <nmorgan@mit.edu>
+Date:   Mon Feb 2 21:58:58 2026 +0000
+
+    add simulate conflict
+
+commit c8298668e16123180c9ba73fc28d1dd7e665d0a5
+Author: nmorgan <nmorgan@mit.edu>
+Date:   Mon Feb 2 21:57:45 2026 +0000
+
+    pushing history
+
 commit c43c072e888e2766b885cc8f0864919e0e7a1095
 Author: nmorgan <nmorgan@mit.edu>
 Date:   Mon Feb 2 21:56:53 2026 +0000
