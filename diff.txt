@@ -1,0 +1,10 @@
+diff --git a/random.txt b/random.txt
+index 45c0b3f..8283d1e 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,4 +1,2 @@
+ Is it therefore the less gone?
+-Yet if hope has flown away
+-Take this kiss upon the brow!
+-Through my fingers to the deep,
++Is but a dream within a dream.
