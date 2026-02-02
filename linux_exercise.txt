@@ -1,0 +1,128 @@
+<====Navigation====>
+
+#####1a#######
+cd ~/
+#####End of Question#######
+
+#####1b#######
+cd /home
+#####End of Question#######
+
+#####1c#######
+cd ../
+#####End of Question#######
+
+#####1d#######
+mkdir ~/test
+#####End of Question#######
+
+#####1e#######
+ls -a 
+#####End of Question#######
+
+#####1f#######
+pwd
+#####End of Question#######
+
+#####1g#######
+rmdir ~/test
+#####End of Question#######
+
+#####1h#######
+ls /etc/bash.bashrc
+#####End of Question#######
+
+<====Managing and Using programs====>
+
+#####2a#######
+apt-get install inxi
+#####End of Question#######
+
+#####2b#######
+inxi --help
+#####End of Question#######
+
+#####2c#######
+man inxi
+#####End of Question#######
+
+#####2d#######
+apt remove inxi
+#####End of Question#######
+
+#####2e#######
+apt update
+#####End of Question#######
+
+#####2f#######
+apt upgrade
+#####End of Question#######
+
+#####2g#######
+cat /etc/bash.bashrc
+#####End of Question#######
+
+<====ssh====>
+
+#####3a#######
+ssh nmorgan@athena.dialup.mit.edu
+#####End of Question#######
+
+#####3b#######
+wget -O pic.png https://tinyurl.com/ya67uga4 
+#####End of Question#######
+
+#####3c#######
+scp ~/pic.png ~/racecar_ws nmorgan@athena.dialup.mit.edu
+#####End of Question#######
+
+#####3d#######
+#####End of Question#######
+
+<====Tmux====>
+
+#####4a#######
+tmux new -s "racecar"
+#####End of Question#######
+
+#####4b#######
+Ctrl+b d
+#####End of Question#######
+
+#####4c#######
+tmux list-sessions
+#####End of Question#######
+
+#####4d#######
+tmux a -t racecar
+#####End of Question#######
+
+#####4e#######
+tmux kill-session racecar
+#####End of Question#######
+
+#####4f#######
+echo 'export alias tks=tmux kill-session' >> ~/.bashrc 
+#####End of Question#######
+
+#####4g#######
+echo 'set -g mouse on' >> ~/.tmux.conf
+#####End of Question#######
+
+#####4h#######
+tmuxp load tmux_template.yaml 
+#####End of Question#######
+
+<====Environment Variables====>
+
+#####5a#######
+echo $HOME
+#####End of Question#######
+
+#####5b#######
+explort $HOME=/home/racecar/racecar_ws
+#####End of Question#######
+
+#####5c#######
+printenv
+#####End of Question#######
