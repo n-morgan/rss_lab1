@@ -1,0 +1,24 @@
+diff --git a/random.txt b/random.txt
+index 7a338a5..b37c367 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,15 +1,5 @@
+-O God! can I not grasp
+-Thus much let me avow--
+-You are not wrong, who deem
+-Of a surf-tormented shore,
+-Through my fingers to the deep,
+-Grains of the golden sand--
+-But a dream within a dream?That my days have been a dream;
+-Thus much let me avow--
+-Take this kiss upon the brow!
+-Is all that we see or seem
+-Thus much let me avow--
+ Grains of the golden sand--
+-
+-O God! can I not save
+-In a vision, or in none,
++O God! can I not grasp
++Them with a tighter clasp?
++In a night, or in a day,
++Them with a tighter clasp?
